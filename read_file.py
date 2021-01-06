@@ -3,3 +3,4 @@ fileptr = open("holidays.txt")
 for line in fileptr:
     # print out the line
     print(line.strip())
+fileptr.close()
