@@ -1,5 +1,6 @@
 import json
-with open('ecommerce.json') as fileptr:
+filename = input("Please enter the json file to read from: ")
+with open(filename) as fileptr:
     data = json.load(fileptr)
     while True:
         sku = input("Please enter a product SKU: ")
