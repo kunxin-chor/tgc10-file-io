@@ -1,0 +1,17 @@
+[
+    {
+        "sku":"ACME-001",
+        "name":"Hammer",
+        "price": 12.50
+    },
+    {
+        "sku":"ACME-002",
+        "name":"Screwdriver",
+        "price": 15.50
+    },
+    {
+        "sku":"ACME-003",
+        "name":"Anvil",
+        "price": 50.00
+    }
+]
